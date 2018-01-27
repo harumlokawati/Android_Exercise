@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Space Launch System</string>
+    <string name="article_subtitle">Nozzle Assemblies Complete for Exploration Mission-1 Solid Rocket Boosters</string>
+    <string name="article_text">
+        source : https://www.nasa.gov\nSpace Launch System (SLS) solid rocket booster prime contractor Orbital ATK recently completed work at its Utah
+        facilities on the booster nozzles for Exploration Mission-1 (EM-1), the first flight of SLS and the Orion spacecraft.
+        SLS, the world’s most powerful rocket, and Orion will take humans on deep space missions, and the boosters provide most
+        of the power to get the spacecraft off the ground. The powerhouse SLS five-segment solid rocket boosters are the largest
+        ever built for flight and will provide more than 75 percent of the thrust during the first two minutes of spaceflight.
+        Here, technicians are putting the finishing touches on the exit cones’ paint, including photogrammetric markings that will
+        help engineers assess clearances between the boosters and ground structures during the initial moments after liftoff.
+        At Kennedy Space Center in Florida during the integration phase of the program, the exit cones will be mated with the
+        rest of the nozzle assemblies, which are also complete. During spaceflight, the booster nozzles direct the expanding gases
+        from the burning solid propellant downward, helping the heavy-lift vehicle escape Earth’s gravity and send Orion to lunar orbit.\n
+
+        Image credit: Orbital ATK\n
+        Last Updated: Dec. 9, 2017\n
+        Editor: Lee Mohon
+    </string>
+</resources>
